@@ -1,0 +1,201 @@
+﻿gold_label,sentence1,sentence2
+entailment,a climber wearing a red headband is pulling himself up some gray rocks high above some green foliage.,A climber pulls himself up some rocks
+neutral,a climber wearing a red headband is pulling himself up some gray rocks high above some green foliage.,A climber pulls himself up 5000 feet up over a forest
+entailment,a man with a red headband climbing a rock cliff looming over greenery.,A man is outdoors.
+neutral,a man with a red headband climbing a rock cliff looming over greenery.,A man has on climbing gear.
+contradiction,a man with a red headband climbing a rock cliff looming over greenery.,A man is swimming in the ocean.
+entailment,"Two formally dressed, bald older women",Two bald women.
+neutral,"Two formally dressed, bald older women",Two bald women with glasses.
+contradiction,"Two formally dressed, bald older women",Two long-haired young women.
+entailment,A homeless man pushes an overfilled plastic blue shopping cart.,A man has a shopping cart
+neutral,A homeless man pushes an overfilled plastic blue shopping cart.,A man is collecting cans to recycle
+contradiction,A homeless man pushes an overfilled plastic blue shopping cart.,A rich man holding a rolex
+entailment,an old shoemaker in his factory,The shoemaker is inside.
+contradiction,an old shoemaker in his factory,The shoemaker is getting ready for his 16th birthday.
+neutral,an old shoemaker in his factory,The shoemaker is wealthy.
+entailment,A blond woman speaks with a group of young dark-haired female students carrying pieces of paper.,A woman speaks to other women.
+entailment,A blond woman speaks with a group of young dark-haired female students carrying pieces of paper.,A blond speaks with a group of young dark-haired woman students carrying pieces of paper.
+contradiction,A blond woman speaks with a group of young dark-haired female students carrying pieces of paper.,A man hits on a woman.
+entailment,The woman in the black shirt hands papers to the children surrounding her.,Someone giving out paper.
+neutral,The woman in the black shirt hands papers to the children surrounding her.,THe woman is giving homework to the children.
+contradiction,The woman in the black shirt hands papers to the children surrounding her.,Woman is keeping the paper to herself.
+neutral,Girl in red jumping up,The girl is jumping to catch the frisbee.
+contradiction,Girl in red jumping up,The girl is sitting on the grass.
+entailment,Girl in red jumping up,The girl in red is in the air.
+entailment,3 ladies with numbers on their shirts running.,There are ladies running.
+contradiction,3 ladies with numbers on their shirts running.,The ladies are riding bikes.
+neutral,3 ladies with numbers on their shirts running.,The ladies are in a marathon.
+contradiction,A young boy walks on a pipe that stretches over water.,A boy is making a sub sandwich in his kitchen.
+entailment,A young boy walks on a pipe that stretches over water.,A boy is walking outside.
+neutral,A young boy walks on a pipe that stretches over water.,A boy is in danger of falling into water.
+contradiction,A young boy in green shorts balances on a pipe above a river.,Nobody is balancing.
+neutral,A young boy in green shorts balances on a pipe above a river.,A clever person balancing.
+entailment,A young boy in green shorts balances on a pipe above a river.,A person balancing.
+entailment,A young man waring black and carrying a skateboard looks at an outdoor skateboard park.,A guy with a skateboard is looking at a park to skateboard.
+contradiction,A young man waring black and carrying a skateboard looks at an outdoor skateboard park.,A girl with a ponytail is riding a bike at a park.
+neutral,A young man waring black and carrying a skateboard looks at an outdoor skateboard park.,A guy is going skateboarding today.
+contradiction,Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.,A young boy is playing soccer.
+neutral,Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.,A young boy is sleeping at a sleep over.
+entailment,Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.,A young boy is sleeping on a pillow.
+contradiction,A man in a blue collared t-shirt posing at someone while holding a hebrew newspaper.,He is wearing the newspaper on his head.
+neutral,A man in a blue collared t-shirt posing at someone while holding a hebrew newspaper.,He is reading the newspaper.
+neutral,A man in a blue collared t-shirt posing at someone while holding a hebrew newspaper.,He is jewish.
+entailment,"A bearded man jumps in the snow with the ocean in the background and an orange, recumbent bike parked near a road sign.",A human jumping.
+contradiction,"A bearded man jumps in the snow with the ocean in the background and an orange, recumbent bike parked near a road sign.",Nobody is jumping.
+neutral,"A bearded man jumps in the snow with the ocean in the background and an orange, recumbent bike parked near a road sign.",A tall human jumping.
+neutral,Four children are playing in some water.,The children are muddy.
+entailment,Four children are playing in some water.,The children are wet.
+contradiction,Four children are playing in some water.,The children are doing chores.
+entailment,Four young girls playing in the water.,Four girls are in the water.
+contradiction,Four young girls playing in the water.,There are boys and girl in the water.
+neutral,Four young girls playing in the water.,Four girls are swimming.
+contradiction,The man in the black t-shirt is trying to throw something.,The man is walking away.
+entailment,The man in the black t-shirt is trying to throw something.,The man is in a black shirt.
+neutral,The man in the black t-shirt is trying to throw something.,The man is throwing something to his son.
+neutral,"One young boy in a yellow long-sleeved shirt and jeans sitting down, with five adults in front of him, one operating a video camera.",Someone recording a young boy as he auditions for a part in a movie.
+contradiction,"One young boy in a yellow long-sleeved shirt and jeans sitting down, with five adults in front of him, one operating a video camera.",A young boy juggling three red balls while blindfolded.
+entailment,"One young boy in a yellow long-sleeved shirt and jeans sitting down, with five adults in front of him, one operating a video camera.",An adult using a video camera.
+neutral,Boys with their backs against an incoming wave.,A group of people play in the ocean.
+entailment,Boys with their backs against an incoming wave.,A group of people stand together.
+neutral,Boys with their backs against an incoming wave.,A group of people sit on the beach.
+entailment,Four boys are about to be hit by an approaching wave.,A wave is about hit some boys.
+contradiction,Four boys are about to be hit by an approaching wave.,The wave missed the boys.
+entailment,Four boys are about to be hit by an approaching wave.,A giant wave is about to crash on some boys.
+neutral,"A woman, standing behind a girl, helping the girl with an experiment.",A mother is helping her child complete the experiment.
+entailment,"A woman, standing behind a girl, helping the girl with an experiment.",A woman is helping a girl.
+contradiction,"A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.",A lady is sleeping on a couch
+entailment,"A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.",A lady is helping another woman work
+neutral,"A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.",Two woman are trying to finish orders from a doctor
+neutral,"One man, wearing a blue jacket, is kicking another man, wearing a red jacket.",Two men are fighting outside a bar.
+contradiction,"One man, wearing a blue jacket, is kicking another man, wearing a red jacket.",A woman puts on makeup
+entailment,"One man, wearing a blue jacket, is kicking another man, wearing a red jacket.",One guy kicks another.
+neutral,"Many people gathered in a room with several people on stage with instruments and the words ""The Early November"" on the wall.",Parents gathers for a local high school concert
+contradiction,"Many people gathered in a room with several people on stage with instruments and the words ""The Early November"" on the wall.",Mob gathers as flutes fight to the death
+contradiction,"Many people gathered in a room with several people on stage with instruments and the words ""The Early November"" on the wall.",People leave as the concert is decides to charge per note
+neutral,A hockey player in helmet.,Players are wearing helmet.
+contradiction,A hockey player in helmet.,The players are taking rest.
+neutral,A hockey player in helmet.,They are playing hockey
+entailment,Man wearing blue bowing on floor in front of another man in blue bowing on floor with two other men wearing blue kneeling on same floor also.,A man is wearing something.
+contradiction,Man wearing blue bowing on floor in front of another man in blue bowing on floor with two other men wearing blue kneeling on same floor also.,A man is wearing nothing.
+neutral,Man wearing blue bowing on floor in front of another man in blue bowing on floor with two other men wearing blue kneeling on same floor also.,A man is wearing a blue shirt.
+neutral,Biker riding through the forest.,Mountain biker competes in off-road race.
+contradiction,Biker riding through the forest.,Man riding motorcycle on highway.
+neutral,Biker riding through the forest.,Mountain biker enjoying the local trails.
+neutral,A young man in a blue T-shirt and sweatpants stands over a stove and looks at the camera while another young man stands behind him.,Two men are recording a cooking tutorial.
+entailment,A young man in a blue T-shirt and sweatpants stands over a stove and looks at the camera while another young man stands behind him.,A man is in front of a camera.
+contradiction,A young man in a blue T-shirt and sweatpants stands over a stove and looks at the camera while another young man stands behind him.,two men are at the pool.
+neutral,"couples enjoying a meal, while a bunch of dogs take a nap.",THE COUPLE ARE EATING STEAK
+entailment,"couples enjoying a meal, while a bunch of dogs take a nap.",SOME ANIMALS ARE ASLEEP
+contradiction,"couples enjoying a meal, while a bunch of dogs take a nap.",THERE IS A COUPLE WALKING THEIR DOGS
+contradiction,A white duck expanding its wings in the water.,"The duck is a rare breed, most thought to have been driven into extinction years ago."
+entailment,A white duck expanding its wings in the water.,There is one animal in this picture.
+contradiction,A white duck expanding its wings in the water.,"The duck sleeps soundly, floating on top of the water"
+contradiction,A woman wearing jeans is walking down the street.,An elderly woman with a cane is sitting on a chair.
+entailment,A woman wearing jeans is walking down the street.,A person is outside.
+neutral,A woman wearing jeans is walking down the street.,A woman is walking towards a bus stop.
+neutral,A group of people stand near and on a large black square on the ground with some yellow writing on it.,a group of people wait
+contradiction,A group of people stand near and on a large black square on the ground with some yellow writing on it.,a person lies on the couch
+neutral,A group of people stand near and on a large black square on the ground with some yellow writing on it.,a group of people stand
+neutral,A crowd is watching a group of men in suits with briefcases walk in formation down the street led by a woman holding a sign.,"The sign the woman is holding states that ""Freedom is free."""
+entailment,A crowd is watching a group of men in suits with briefcases walk in formation down the street led by a woman holding a sign.,A group of well dressed people walk down a block with one of them holding a sign.
+contradiction,A crowd is watching a group of men in suits with briefcases walk in formation down the street led by a woman holding a sign.,A group of people dressed as clowns stroll into the Bigtop Circus holding signs.
+entailment,The little boy gets ready to kick the soccer ball.,the boy gets ready
+neutral,The little boy gets ready to kick the soccer ball.,the boy is ten years old
+contradiction,The little boy gets ready to kick the soccer ball.,the boy is sleeping at home
+entailment,A man and woman sitting on the sidewalk.,The man and woman are sitting.
+contradiction,A man and woman sitting on the sidewalk.,The man and woman are standing.
+neutral,A man and woman sitting on the sidewalk.,The man and woman are married.
+neutral,A female within the foreground is heading towards a large white colored pillar that is apart of a large building with people are loitering or waiting on the steps of said building.,The woman has an important meeting today in the building.
+contradiction,A female within the foreground is heading towards a large white colored pillar that is apart of a large building with people are loitering or waiting on the steps of said building.,A dog is running up the steps of a building.
+entailment,A female within the foreground is heading towards a large white colored pillar that is apart of a large building with people are loitering or waiting on the steps of said building.,There are several people outside of a building.
+contradiction,A woman in a black jacket and a black and white striped skirt is watching a woman talking to a little boy sitting on concrete steps.,A father looks at his wife and son.
+entailment,A woman in a black jacket and a black and white striped skirt is watching a woman talking to a little boy sitting on concrete steps.,A person is talking to a child while another person watches.
+neutral,A woman in a black jacket and a black and white striped skirt is watching a woman talking to a little boy sitting on concrete steps.,A woman watches a mother speak to her young son.
+contradiction,Man and woman eating a hotdog.,A man and his family are eating pizza.
+neutral,Man and woman eating a hotdog.,A man and woman are eating a hotdog at a baseball game.
+entailment,Man and woman eating a hotdog.,A man and woman are sharing a hotdog.
+neutral,An aisle at Best Buy with an employee standing at the computer and a Geek Squad sign in the background.,The employee is wearing a blue shirt.
+entailment,An aisle at Best Buy with an employee standing at the computer and a Geek Squad sign in the background.,The employee is indoors.
+contradiction,An aisle at Best Buy with an employee standing at the computer and a Geek Squad sign in the background.,The employee is swimming in the ocean.
+neutral,A carpenter is working on a roof at a house being built.,A man is hammering the final shingle on a roof.
+entailment,A carpenter is working on a roof at a house being built.,A workman is helping put a roof on a house.
+contradiction,A carpenter is working on a roof at a house being built.,A boy is jumping up and down.
+entailment,"A group of seven individuals wearing rafting gear, white water raft down a river.",There are people in an inflatable boat.
+contradiction,"A group of seven individuals wearing rafting gear, white water raft down a river.",The man has fallen out of the boat.
+neutral,"A group of seven individuals wearing rafting gear, white water raft down a river.",Seven men and women are in a yellow boat.
+entailment,Two little boys wearing athletic jerseys are washing their hands in a public restroom.,The boys had unclean hands.
+neutral,Two little boys wearing athletic jerseys are washing their hands in a public restroom.,They were playing soccer.
+contradiction,Two little boys wearing athletic jerseys are washing their hands in a public restroom.,The boys are bare-chested.
+neutral,Two small boys in blue soccer uniforms use a wooden set of steps to wash their hands in an adult-sized bathroom.,The boys just won their soccer game
+entailment,Two small boys in blue soccer uniforms use a wooden set of steps to wash their hands in an adult-sized bathroom.,Two boys washing their hands
+contradiction,Two small boys in blue soccer uniforms use a wooden set of steps to wash their hands in an adult-sized bathroom.,The boys are in band uniforms
+entailment,A naked man rides a bike.,A person biking.
+contradiction,A naked man rides a bike.,A man in a suit walking on a sidewalk.
+neutral,A naked man rides a bike.,A naked red haired man on a bike on a busy street.
+entailment,Two men wearing dirty clothing are sitting on a sidewalk with their dog and begging for money using a cardboard sign.,Two men sit outdoors in an urban area.
+contradiction,Two men wearing dirty clothing are sitting on a sidewalk with their dog and begging for money using a cardboard sign.,These two illiterate men convinced their dog to write a panhandling sign for them.
+neutral,Two men wearing dirty clothing are sitting on a sidewalk with their dog and begging for money using a cardboard sign.,Two research scientists conduct research in disguise.
+neutral,"Two street people and a dog sitting on the ground and one is holding an ""out of luck"" sign.",the dog is a chihuahua
+entailment,"Two street people and a dog sitting on the ground and one is holding an ""out of luck"" sign.",people with a dog
+entailment,Two homeless men dressed in gray sit against a wall with a sleeping dog on a purple leash.,Two homeless men lean against a wall with a dog.
+contradiction,Two homeless men dressed in gray sit against a wall with a sleeping dog on a purple leash.,Two men own homes.
+neutral,Two homeless men dressed in gray sit against a wall with a sleeping dog on a purple leash.,Two friends sit against a wall with their pet dog.
+neutral,"A woman doing gymnastics, she is using the balance beam",A woman is doing a handstand on the balance beam.
+contradiction,"A woman doing gymnastics, she is using the balance beam",A woman is napping in the gym.
+entailment,"A woman doing gymnastics, she is using the balance beam",A woman is using gymnastics equipment.
+entailment,"Six rescuers cooperate to place an injured man on a transport device in snowy, mountainous terrain.","six people act together to get another, injured man on a transport in snowy terrain"
+entailment,"Six rescuers cooperate to place an injured man on a transport device in snowy, mountainous terrain.",six people act to save a seventh who is injured
+contradiction,"Six rescuers cooperate to place an injured man on a transport device in snowy, mountainous terrain.",six people get ready to eat a seventh who is injured
+neutral,Three women are sitting on a green bench looking out at the coast.,The three women are best friends.
+contradiction,Three women are sitting on a green bench looking out at the coast.,The three women are looking into the forest.
+entailment,Three women are sitting on a green bench looking out at the coast.,The women are outdoors.
+neutral,A man in a black tank top wearing a red plaid hat,A man getting ready to play golf.
+contradiction,A man in a black tank top wearing a red plaid hat,A man wearing football pads.
+entailment,A man in a black tank top wearing a red plaid hat,A man in a hat.
+entailment,A blond woman in a black shirt is standing behind a counter.,The woman is standing.
+neutral,A blond woman in a black shirt is standing behind a counter.,The woman has her hair pulled back in a bun.
+contradiction,A blond woman in a black shirt is standing behind a counter.,The woman is seated on a beach towel.
+entailment,The boys are playing with Legos.,Boys are playing.
+neutral,The boys are playing with Legos.,Boys are playing outside.
+contradiction,The boys are playing with Legos.,Boys are playing chess.
+neutral,A man and a child are purchasing ice cream from a man with a hand pushed ice cream cart.,A father is buying his daughter ice cream.
+contradiction,A man and a child are purchasing ice cream from a man with a hand pushed ice cream cart.,A couple is eating in a restaurant.
+entailment,A man and a child are purchasing ice cream from a man with a hand pushed ice cream cart.,People are buying food from a street vendor.
+neutral,Three men are carrying a red bag into a boat with another person and boat in the background.,Some sailors get in a sailboat.
+entailment,Three men are carrying a red bag into a boat with another person and boat in the background.,Some people put something in a boat in a place with more than one boat.
+contradiction,Three men are carrying a red bag into a boat with another person and boat in the background.,A person drives away in a winnebago.
+contradiction,Man holding torch of fire.,The man is holding a bag.
+entailment,Man holding torch of fire.,There is a man.
+neutral,Man holding torch of fire.,The fire is large.
+neutral,Villagers pulling in the fish boat.,The villagers are preparing to go fishing.
+contradiction,Villagers pulling in the fish boat.,The villagers are sitting around the camp fire.
+entailment,Villagers pulling in the fish boat.,There are people pulling a boat.
+neutral,A crowd of people shopping at a street market in an urban area with buildings and a statue in background.,The crowd of people are shopping at a street market that sells fruits.
+contradiction,A crowd of people shopping at a street market in an urban area with buildings and a statue in background.,The crowd of people are inside a mall.
+entailment,A crowd of people shopping at a street market in an urban area with buildings and a statue in background.,the crowd of people are shopping.
+neutral,A child is sticking her head out of the 0095 taxi cab and screaming.,A child is screaming at the person that almost hit her taxi cab.
+entailment,A child is sticking her head out of the 0095 taxi cab and screaming.,A child is inside a car.
+contradiction,A child is sticking her head out of the 0095 taxi cab and screaming.,"A child is at home, resting."
+contradiction,Five children playing soccer chase after a ball.,They are playing football.
+entailment,Five children playing soccer chase after a ball.,Five children are playing.
+contradiction,Five children playing soccer chase after a ball.,There are ten total children playing.
+neutral,A woman in red blouse is standing with small blond child in front of a small folding chalkboard.,a woman stands with her child
+contradiction,A woman in red blouse is standing with small blond child in front of a small folding chalkboard.,a dog barks loud
+entailment,A woman in red blouse is standing with small blond child in front of a small folding chalkboard.,a woman stands with a child
+neutral,A boy swims shirtless with a black and red bathing suit while a seagull sits on the sand.,A boy swims while a seagull shits on the sand.
+entailment,A boy swims shirtless with a black and red bathing suit while a seagull sits on the sand.,A boy swims.
+contradiction,A boy swims shirtless with a black and red bathing suit while a seagull sits on the sand.,A boy swims nude while a seagull eats his peanut butter sandwich.
+neutral,Here is a picture of people getting drunk at a house party.,Some people are by the side of a swimming pool partying.
+neutral,Here is a picture of people getting drunk at a house party.,Some people are holding beers in the picture.
+neutral,Here is a picture of people getting drunk at a house party.,People were celebrating at a Christmas themed party.
+entailment,A busy street with numerous people interacting and going about their lives.,The street is alive with activity.
+contradiction,A busy street with numerous people interacting and going about their lives.,The street is quiet and calm.
+neutral,A busy street with numerous people interacting and going about their lives.,The morning rush hour fills the streets with busy people.
+neutral,"A female softball player wearing blue and red crouches in the infield, waiting for the next play.",the player is pretty
+contradiction,"A female softball player wearing blue and red crouches in the infield, waiting for the next play.",the player is flying planes
+entailment,"A female softball player wearing blue and red crouches in the infield, waiting for the next play.",a player is waiting
+entailment,Two people crossing by each other while kite surfing.,The people are outdoors.
+neutral,Two people crossing by each other while kite surfing.,The people are both males.
+contradiction,Two people crossing by each other while kite surfing.,There is one person outdoors.
+neutral,A variety of people are sitting around a tale doing craft projects.,The people are unique.
+neutral,A variety of people are sitting around a tale doing craft projects.,The people are creative.
