@@ -1,5 +1,5 @@
 import pandas as pd
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split, GridSearchCV, StratifiedKFold
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.pipeline import Pipeline, FeatureUnion
 from sklearn.preprocessing import LabelEncoder
@@ -11,8 +11,11 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import classification_report
 import joblib
 
-train_data = pd.read_csv("snli_small_train.csv")
-test_data = pd.read_csv("snli_small_test.csv")
+# train_data = pd.read_csv("snli_small_train.csv")
+# test_data = pd.read_csv("snli_small_test.csv")
+
+train_data = pd.read_csv("snli_train.csv")
+test_data = pd.read_csv("snli_test.csv")
 
 # Encode targets
 le = LabelEncoder()
@@ -36,6 +39,24 @@ pipeline = Pipeline([
     ])),
     ('clf', XGBClassifier())
 ])
+
+param_grid = {
+    'clf__n_estimators': [100, 200, 300],
+    'clf__learning_rate': [0.01, 0.1, 0.2],
+    'clf__max_depth': [3, 5, 7],
+    'clf__min_child_weight': [1, 5, 10]
+}
+
+kfold = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
+
+grid_search = GridSearchCV(
+    estimator=pipeline,
+    param_grid=param_grid,
+    scoring='roc_auc', # Choose an appropriate scoring metric
+    cv=kfold,
+    verbose=1,
+    n_jobs=-1 # Use all available processors for parallel processing
+)
 
 # 4. Train/Test
 pipeline.fit(X_train, y_train)

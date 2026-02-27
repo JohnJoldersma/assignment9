@@ -5,6 +5,9 @@ from sklearn.ensemble import RandomForestClassifier
 from scipy.sparse import hstack
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
+# train_data = pd.read_csv("snli_train.csv")
+# test_data = pd.read_csv("snli_test.csv")
+
 train_data = pd.read_csv("snli_small_train.csv")
 test_data = pd.read_csv("snli_small_test.csv")
 
@@ -21,7 +24,7 @@ X = hstack([X1, X2])
 
 y_test = test_data['gold_label']
 
-rf_model = RandomForestClassifier(n_estimators=100, random_state=42)
+rf_model = RandomForestClassifier(n_estimators=150, max_features=125, random_state=42)
 rf_model.fit(X, train_data['gold_label'])
 
 with open('vectorizer1.pkl', 'wb') as f:
